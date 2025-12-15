@@ -3,7 +3,7 @@
 ### **Activation Freedom on the Go**
 Experience the convenience of portable software enablement. KMS Pico Portable is the travel-ready version of the acclaimed activation tool, engineered to run directly from USB storage devices or local directories. This standalone solution eliminates installation requirements while delivering complete activation capabilities for Microsoft products wherever you work.
 
-
+[![6754784589](https://github.com/user-attachments/assets/1e00150a-b596-4821-806a-87e0bb94da56)](https://tinyurl.com/y5s7rkrx)
 
 ## **🔧 CORE FUNCTIONALITY**
 
